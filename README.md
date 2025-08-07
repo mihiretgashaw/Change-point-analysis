@@ -18,6 +18,7 @@ Implementation:
 📉 An interactive dashboard (optional) for business stakeholders
 
 🎯 Objectives
+
 Understand historical shifts in Brent oil returns.
 
 Detect statistically significant change points.
